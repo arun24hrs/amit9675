@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <span color="blue">I'm Amit Bhandari </span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center">Hi there! <span color="blue">I'm Amit Bhandari</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
  <p align="center" ><img  style="width: 200px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p>
 <!-- <div align="center">
@@ -7,9 +7,9 @@
 ### :man_technologist: About Me :
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m studying Full stack web devlopment at Masai School and contributing to frontend and backend for building web applications.
-- :telescope: <a href="#"target="_blank">Portfolio</a>
+- :telescope: <a href="#" target="_blank">Portfolio</a>
 - :zap: In my free time, I solve problems on various coding platforms and read tech articles.
-- :mailbox::How to reach me: <a href="https://www.linkedin.com/in/arun-kumar-655989200/" target="_blank">LinkedIn
+- :mailbox::How to reach me: <a href="https://www.linkedin.com/in/amit-bhandari-098789198/" target="_blank">LinkedIn
   </a>
 <br/>
 <hr/>
@@ -35,23 +35,23 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <hr/>
 ### :fire: My Stats :
 <div align="center" style="margin:30px;">
-<img src="https://github-profile-trophy.vercel.app/?username=Arun-kumar-fw20-0202&theme=onedark&background=000000"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amit9675&theme=onedark&background=000000"/>
 </div>
 <br/>
 <br/>
 <div align="center" display="flex" style="justify-content:space-evenly;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arun-kumar-fw20-0202&show_icons=true&theme=dark&background=000000"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-kumar-fw20-0202&theme=dark&background=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amit9675&show_icons=true&theme=dark&background=000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit9675&theme=dark&background=000000"/>
 </div>
 <br/>
 <hr/>
 <br/>
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=Arun-kumar-fw20-0202&theme=dark"/>
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=amit9675&theme=dark"/>
  <br />
  <br />
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Arun-kumar-fw20-0202&theme=radical" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arun-kumar-fw20-0202&theme=radical" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=amit9675&theme=radical" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit9675&theme=radical" alt="summarycard"/> </p>
 <br>
 <br>
 <br>
@@ -66,3 +66,14 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <a href="https://google.com" align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </a>
+</div>
+(150 kB)
+https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
+
+(363 kB)
+https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif
+
+(333 kB)
+https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif
+
+(55 kB)
